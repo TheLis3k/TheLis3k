@@ -2,10 +2,6 @@
 
 ### Shiny Things Syndrome Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheLis3k&label=Profile views&color=0e75b6&style=flat" alt="TheLis3k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheLis3k" alt="TheLis3k" /></a> </p>
-
 - 🔭 I'm currently working on **A private project (AiEdits) to make some money 💰💰💰**
 
 - 🌱 I'm currently learning **Basic Dev-Ops / Advanced Java**
