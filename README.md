@@ -2,7 +2,7 @@
 
 ### Shiny Things Syndrome Developer
 
-- 🔭 I'm currently working on **A private project (AiEdits) to make some money 💰💰💰**
+- 🔭 I'm currently working on **https://evenciki.pl**
 
 - 🌱 I'm currently learning **Basic Dev-Ops / Advanced Java**
 
